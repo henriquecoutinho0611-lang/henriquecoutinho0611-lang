@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Seu Nome! 👋
+# Olá, eu sou O Henrique! 👋
 
 ### Desenvolvedor(a) | Criando projetos e aprendendo todos os dias
 
@@ -20,9 +20,9 @@
 ## 👨‍💻 Sobre mim
 
 - 💡 Gosto de transformar ideias em projetos úteis e bem feitos.
-- 🌱 Atualmente estou aprendendo **[o que você está estudando]**.
-- 🛠️ Trabalhando em **[projeto ou objetivo atual]**.
-- 📍 Moro em **[sua cidade ou país, se quiser compartilhar]**.
+- 🌱 Atualmente estou aprendendo Java todo dia.
+- 🛠️ Trabalhando em backend.
+- 📍 Moro em Sao paulo capital .
 
 ## 🧰 Tecnologias e ferramentas
 
